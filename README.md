@@ -1,6 +1,6 @@
 # osgi-console
 
-It is just a simple starter osgi project. 
+It is just a simple starter osgi project using Equinox.
 
 It allows to launch the OSGI console using the start.sh
 
